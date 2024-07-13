@@ -1,0 +1,57 @@
+15-May-2024 00:19:55.531 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+15-May-2024 00:19:55.532 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+15-May-2024 00:19:55.536 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+15-May-2024 00:19:55.558 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+15-May-2024 00:19:55.571 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+15-May-2024 12:38:41.747 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.89
+15-May-2024 12:38:41.748 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          May 3 2024 20:22:11 UTC
+15-May-2024 12:38:41.748 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.89.0
+15-May-2024 12:38:41.748 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+15-May-2024 12:38:41.748 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+15-May-2024 12:38:41.748 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+15-May-2024 12:38:41.748 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-22
+15-May-2024 12:38:41.748 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           22+36-2370
+15-May-2024 12:38:41.748 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+15-May-2024 12:38:41.748 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\fdcen\Desktop\proyectos_git\dental-clinic\apache-tomcat-9.0.89
+15-May-2024 12:38:41.748 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\fdcen\Desktop\proyectos_git\dental-clinic\apache-tomcat-9.0.89
+15-May-2024 12:38:41.753 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+15-May-2024 12:38:41.753 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+15-May-2024 12:38:41.753 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+15-May-2024 12:38:41.754 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+15-May-2024 12:38:41.754 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+15-May-2024 12:38:41.754 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\fdcen\Desktop\proyectos_git\dental-clinic\apache-tomcat-9.0.89\conf\logging.properties
+15-May-2024 12:38:41.754 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+15-May-2024 12:38:41.754 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+15-May-2024 12:38:41.754 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+15-May-2024 12:38:41.754 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+15-May-2024 12:38:41.754 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\fdcen\Desktop\proyectos_git\dental-clinic\apache-tomcat-9.0.89
+15-May-2024 12:38:41.754 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\fdcen\Desktop\proyectos_git\dental-clinic\apache-tomcat-9.0.89
+15-May-2024 12:38:41.754 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\fdcen\Desktop\proyectos_git\dental-clinic\apache-tomcat-9.0.89\temp
+15-May-2024 12:38:41.758 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.0] using APR version [1.7.4].
+15-May-2024 12:38:41.758 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+15-May-2024 12:38:41.793 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+15-May-2024 12:38:41.805 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.13 30 Jan 2024]
+15-May-2024 12:38:41.964 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+15-May-2024 12:38:41.975 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [338] milliseconds
+15-May-2024 12:38:42.020 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+15-May-2024 12:38:42.020 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.89]
+15-May-2024 12:38:42.025 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\fdcen\Desktop\proyectos_git\dental-clinic\apache-tomcat-9.0.89\conf\Catalina\localhost\dental-clinic.xml]
+15-May-2024 12:38:42.034 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/dental-clinic] in deployment descriptor [C:\Users\fdcen\Desktop\proyectos_git\dental-clinic\apache-tomcat-9.0.89\conf\Catalina\localhost\dental-clinic.xml] has been ignored
+15-May-2024 12:38:42.220 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\fdcen\Desktop\proyectos_git\dental-clinic\apache-tomcat-9.0.89\conf\Catalina\localhost\dental-clinic.xml] has finished in [195] ms
+15-May-2024 12:38:42.222 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\fdcen\Desktop\proyectos_git\dental-clinic\apache-tomcat-9.0.89\webapps\docs]
+15-May-2024 12:38:42.244 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\fdcen\Desktop\proyectos_git\dental-clinic\apache-tomcat-9.0.89\webapps\docs] has finished in [22] ms
+15-May-2024 12:38:42.244 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\fdcen\Desktop\proyectos_git\dental-clinic\apache-tomcat-9.0.89\webapps\examples]
+15-May-2024 12:38:42.507 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\fdcen\Desktop\proyectos_git\dental-clinic\apache-tomcat-9.0.89\webapps\examples] has finished in [263] ms
+15-May-2024 12:38:42.507 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\fdcen\Desktop\proyectos_git\dental-clinic\apache-tomcat-9.0.89\webapps\host-manager]
+15-May-2024 12:38:42.529 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\fdcen\Desktop\proyectos_git\dental-clinic\apache-tomcat-9.0.89\webapps\host-manager] has finished in [22] ms
+15-May-2024 12:38:42.529 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\fdcen\Desktop\proyectos_git\dental-clinic\apache-tomcat-9.0.89\webapps\manager]
+15-May-2024 12:38:42.549 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\fdcen\Desktop\proyectos_git\dental-clinic\apache-tomcat-9.0.89\webapps\manager] has finished in [20] ms
+15-May-2024 12:38:42.550 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\fdcen\Desktop\proyectos_git\dental-clinic\apache-tomcat-9.0.89\webapps\ROOT]
+15-May-2024 12:38:42.563 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\fdcen\Desktop\proyectos_git\dental-clinic\apache-tomcat-9.0.89\webapps\ROOT] has finished in [13] ms
+15-May-2024 12:38:42.565 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+15-May-2024 12:38:42.578 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [602] milliseconds
+15-May-2024 12:38:44.868 INFO [http-nio-8080-exec-9] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/dental-clinic]
+15-May-2024 12:38:44.902 INFO [http-nio-8080-exec-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\fdcen\Desktop\proyectos_git\dental-clinic\apache-tomcat-9.0.89\conf\Catalina\localhost\dental-clinic.xml]
+15-May-2024 12:38:44.902 WARNING [http-nio-8080-exec-2] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/dental-clinic] in deployment descriptor [C:\Users\fdcen\Desktop\proyectos_git\dental-clinic\apache-tomcat-9.0.89\conf\Catalina\localhost\dental-clinic.xml] has been ignored
+15-May-2024 12:38:44.923 INFO [http-nio-8080-exec-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\fdcen\Desktop\proyectos_git\dental-clinic\apache-tomcat-9.0.89\conf\Catalina\localhost\dental-clinic.xml] has finished in [20] ms
+15-May-2024 12:38:44.924 INFO [http-nio-8080-exec-8] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/dental-clinic]] after start() had already been called. The second call will be ignored.
